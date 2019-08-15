@@ -9,6 +9,10 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "contentful": "^7.9.1",
     "font-awesome": "^4.7.0"
+  },
+  "dependencies": {
+    "requirejs": "^2.3.6"
   }
 }
